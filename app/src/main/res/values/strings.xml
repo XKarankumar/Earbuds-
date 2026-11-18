@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Aether Buds</string>
+
+    <!-- Navigation -->
+    <string name="nav_hub">Device</string>
+    <string name="nav_sound">Sound</string>
+    <string name="nav_controls">Controls</string>
+    <string name="nav_security">Security</string>
+
+    <!-- Device & ANC Hub -->
+    <string name="hub_title">Aether Pro</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_locked_to_host">Host Locked</string>
+    <string name="status_unpaired">Ready to Bind</string>
+    <string name="battery_left">L Bud</string>
+    <string name="battery_right">R Bud</string>
+    <string name="battery_case">Case</string>
+    <string name="section_anc">Noise Control</string>
+    <string name="anc_depth_label">Cancellation Depth</string>
+    <string name="transparency_voice_focus">Voice Focus Boost</string>
+    <string name="transparency_voice_focus_desc">Amplifies nearby voices while reducing rumble</string>
+    <string name="sidetone_label">Call Sidetone</string>
+    <string name="sidetone_desc">Hear your own voice naturally during calls</string>
+    <string name="ear_tip_fit_test">Ear Tip Seal Test</string>
+    <string name="ear_tip_fit_desc">Verify acoustic isolation for optimal ANC</string>
+    <string name="find_my_buds">Find My Earbuds</string>
+    <string name="find_left">Ring Left</string>
+    <string name="find_right">Ring Right</string>
+    <string name="find_both">Ring Both</string>
+    <string name="stop_ring">Stop Tone</string>
+
+    <!-- Sound & EQ -->
+    <string name="sound_title">Acoustic Studio</string>
+    <string name="sound_profiles_section">Sound Profiles</string>
+    <string name="save_custom_profile">Save Custom</string>
+    <string name="custom_profile_dialog_title">Save Sound Profile</string>
+    <string name="custom_profile_name_hint">Profile name (e.g. Late Night Bass)</string>
+    <string name="equalizer_section">10-Band Equalizer</string>
+    <string name="reset_flat">Reset Flat</string>
+    <string name="spatial_audio_title">360° Spatial Audio</string>
+    <string name="spatial_audio_desc">Dynamic soundstage with head-tracking engine</string>
+    <string name="head_tracking_title">Dynamic Head Tracking</string>
+    <string name="gaming_mode_title">Ultra-Low Latency (45ms)</string>
+    <string name="gaming_mode_desc">Synchronizes audio for competitive gaming</string>
+    <string name="bass_boost_label">Sub-Bass Engine</string>
+    <string name="codec_section">Hi-Res Bluetooth Codec</string>
+
+    <!-- Controls & Firmware -->
+    <string name="controls_title">Custom Controls</string>
+    <string name="gestures_section">Touch &amp; Squeeze Gestures</string>
+    <string name="left_earbud">Left Earbud</string>
+    <string name="right_earbud">Right Earbud</string>
+    <string name="smart_sensors_section">Smart Sensors</string>
+    <string name="in_ear_detection">In-Ear Wear Detection</string>
+    <string name="in_ear_detection_desc">Auto-pause playback when a bud is removed</string>
+    <string name="auto_answer_calls">Auto-Answer on Wear</string>
+    <string name="auto_answer_calls_desc">Answer incoming call by inserting an earbud</string>
+    <string name="firmware_section">Firmware &amp; OTA Updates</string>
+    <string name="check_updates">Check for Updates</string>
+    <string name="install_update">Install Firmware Update</string>
+
+    <!-- Security -->
+    <string name="security_title">Device Pairing Shield</string>
+    <string name="security_subtitle">Hardware-bound exclusive pairing lock</string>
+    <string name="exclusive_lock_title">Exclusive Device Lock</string>
+    <string name="exclusive_lock_desc">Blocks pairing &amp; connections from all other phones</string>
+    <string name="lost_freeze_title">Lost-Mode Hardware Freeze</string>
+    <string name="lost_freeze_desc">Prevents factory reset pairing on unauthorized hosts</string>
+    <string name="multipoint_locked_notice">Dual-Device Multipoint is disabled while Exclusive Device Lock is active.</string>
+    <string name="registered_host_title">Registered Host Device</string>
+    <string name="bound_earbuds_title">Bound Earbuds Hardware</string>
+    <string name="scan_bluetooth_devices">Scan Paired Devices</string>
+    <string name="grant_bluetooth_permission">Grant Bluetooth Access</string>
+    <string name="simulate_intruder_btn">Test Unauthorized Phone Block</string>
+    <string name="rotate_key_btn">Rotate Host Key</string>
+    <string name="security_audit_title">Security &amp; Block Log</string>
+    <string name="pin_setup_title">Set Security PIN</string>
+    <string name="pin_verify_title">Enter Security PIN</string>
+    <string name="pin_hint">4-digit PIN</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+</resources>

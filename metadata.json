@@ -1,0 +1,6 @@
+{
+  "name": "Aether Buds",
+  "description": "Premium ANC earbuds companion with 10-band custom sound profiles, OTA firmware updates, touch gesture mapping, and hardware device-exclusive pairing security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
